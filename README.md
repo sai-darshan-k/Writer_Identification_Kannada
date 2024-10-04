@@ -6,8 +6,6 @@ Welcome to Kannada Kranthi! This initiative is dedicated to advancing technology
 
 ![Screenshot 2024-10-04 201729](https://github.com/user-attachments/assets/84f281e3-32fb-4dba-9ef6-b62d49e18091)
 
-https://github.com/user-attachments/assets/b024c1f7-3f0a-48f5-b248-06ae7f7c08d2
-
 
 ## Team Members
 - **Suhas S**
