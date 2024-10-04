@@ -4,6 +4,10 @@
 
 Welcome to Kannada Kranthi! This initiative is dedicated to advancing technology for the Kannada language. Our primary objective is to significantly enhance text extraction from images and PDF files through cutting-edge Optical Character Recognition (OCR) techniques. In addition to this, we aim to implement innovative solutions that include writer identification and keyword search functionalities tailored specifically for Kannada texts. By harnessing the power of technology, Kannada Kranthi seeks to promote the preservation and accessibility of the Kannada language, making it easier for users to engage with and explore Kannada literature and resources.
 
+
+https://github.com/user-attachments/assets/b024c1f7-3f0a-48f5-b248-06ae7f7c08d2
+
+
 ## Team Members
 - **Suhas S**
 - **Sai Darshan**
