@@ -17,6 +17,8 @@ Welcome to Kannada Kranthi! This initiative is dedicated to advancing technology
 
 - **Image to Text Extraction**: 
   - Developed an advanced OCR system capable of extracting text from Kannada images, leveraging machine learning techniques to enhance accuracy and efficiency.
+![image](https://github.com/user-attachments/assets/28114576-4d79-4b75-9921-966c152ce906)
+
 
 - **Writer Identification**: 
   - Designed a system for identifying the authors of Kannada manuscripts and handwritten texts using the VGG16 CNN architecture. This system analyzes handwriting features and classifies the writer based on their unique writing style, achieving 100% accuracy.
